@@ -1,0 +1,20 @@
+Answer2
+
+
+				Purpose: 
+HTML is used for creating the structure and content of a web page, while JavaScript is used for adding interactivity and dynamic behavior to a web page.
+
+				Syntax:
+ HTML uses markup tags to define elements, while JavaScript uses scripting language syntax.
+
+				Rendering:
+ HTML is rendered by the browser, while JavaScript is executed by the browser.
+
+				Dynamic behavior: 
+HTML has no built-in capabilities for creating dynamic behavior, while JavaScript can dynamically change content, styles, and respond to user interactions.
+
+				Interoperability:
+ HTML is supported by all browsers, while JavaScript implementation may vary among browsers.
+
+				Server interaction:
+ HTML is static and has no capability for interacting with a server, while JavaScript can communicate with a server and exchange data dynamically.

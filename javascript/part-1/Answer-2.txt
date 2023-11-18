@@ -1,0 +1,87 @@
+Answer-2
+ 			various categories of operators
+1- Arithmatical operators=
+Arithmatical operators are used to perform mathematical calculations.
+like addition+, subtraction-, multiplication*, divition/.
+
+Ex=
+let a,b,c,d,e,f;
+let b=20;
+let a=10;
+ c=a+b, d=a-b; e=a*b; f=a/b;
+console.log(c); // 30
+console.log(d); //-10
+console.log(e);  // 200
+console.log(f); //
+
+2-Assignment operators=
+Assignment operators are used to assign value to a variable.
+Ex=
+let a=20;// simple assignment
+let b=30;
+b+=20;// compound assignment
+console.log(a);  //20
+console.log(b);  //50
+
+3- logical operators=
+Logical operators perform logical operations and return a boolean Aalue, either true or false.
+There are three main logical operators AND (&&), OR (||), and NOT (!).
+ and $$ Ex=
+let a=10;
+let b=20;
+let c=10;
+var result=b>=a $$ b==c;
+console.log(result); // true
+
+OR || example=
+let a=10;
+let b=20;
+let c=10;
+var result=a>=b $$ b==c;
+console.log(result); // true
+
+NOT ! Example=
+let a=10;
+let b=20;
+var result=a!=b;
+console.log(result); // true
+ 4- unary operators=
+Unary operators are operators that perform actions on a single operand. Let’s explore some of the Unary
+operators:
+				unary plus(+)
+The unary plus operator is used to con'ert its operand into a number.
+	Ex=
+let numString="20";
+let num=+numString;   // change string to number
+console.log(num);
+				unary negative(-)
+The unary negation operator is used to negate the value of its operand, effectively changing its sign.
+ 	Ex=
+let a=-500;
+let b=2000;
+let c=a+b;
+console.log(c)    //1500
+
+5-Comparison operators =
+comparison operators, also known as relational operators, compare values and return true and false.
+ comparison operators=
+< less than,
+> greater than
+<= less than or eual to 
+>= greater than or eual to
+!= not equal to
+
+Ex=
+ let a= 20;
+let b= 30;
+console.log(a==b); // false
+console.log(a!=b); // true
+console.log(a===b);  // false beacuse value not equal
+ console.log(a>b); // false
+console.log(a<b); // true
+
+
+
+
+
+

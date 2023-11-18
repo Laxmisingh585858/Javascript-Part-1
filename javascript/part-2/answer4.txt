@@ -1,0 +1,10 @@
+Answer4-
+ 					variable
+ variable is a container which is use to store the values. it's a good programming practice to declare all variables at the beginning of a script. we use var, let and const keyword to declare the variables.
+ex=			var a= 10;
+			let b="hello";
+			const c=30;
+
+
+ex= let a="hello";
+let b=10;

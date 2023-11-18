@@ -1,0 +1,5 @@
+let principal=1000;
+let rate=10;
+let time=12;
+let simple=(principal*rate*time)/100;
+console.log(simple);

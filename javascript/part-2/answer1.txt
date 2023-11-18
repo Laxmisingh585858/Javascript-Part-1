@@ -1,0 +1,18 @@
+				Javascript
+ 
+1-  JavaScript is a popular programming language that is widely used for wed development.
+2-  Javascript is a lightweight, open-source,interperter based programming language.It is also known 	as a client-side and server- side scripting language.
+3-   Javascript was created by Brenden EIch While he was an engineer of netscape in 1995.
+		
+
+				Features of Javascript
+
+1- open source= we can use javascript without paying any charge.
+2- easy to use= javascript syntax is easy, so we can easily learn and use.
+3- cross-platform=javasript support all modern web browser ,so we can excuted javascript program any device and web brower. 
+			
+			Application of Javascript
+
+Web development,  mobile App development, wed Application , game development.
+
+This makes it a good choice for building web applications that need to be fast and responsive, as the code is run locally on the user's devices. JavaScript is also used to build web apps. 

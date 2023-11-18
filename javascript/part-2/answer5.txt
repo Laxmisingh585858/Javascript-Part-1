@@ -1,0 +1,13 @@
+		Answer5- 
+1-comments is use to provide some addition information about  the code so developer can easily understand,learn  and according to need change in future.
+2- comments is use for documentaion of code.
+
+ 			single line comments
+ // this is a single line comments.
+ex- var a=10; // this a first variable
+
+			Multiple line comments
+/* this is a
+multiple line comments */
+ex- var a=30; /* event section
+		 variable*/

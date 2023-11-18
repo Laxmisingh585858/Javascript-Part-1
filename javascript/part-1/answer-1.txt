@@ -1,0 +1,11 @@
+Answer-1
+			operators
+
+Basically, programming is done for a variety of reasons and one of the important reasons why programming is done is to operate on the values in the variables with high accuracy and faster speed.
+
+In other words, we can also say that an operator is a symbol that tells the complier to perform specific mathematical, conditional or logical functions.
+
+Ex=
+4+6=10
+here, 4,6,10 are oprates(data)
+and +,= are operators

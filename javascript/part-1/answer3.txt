@@ -1,0 +1,4 @@
+let radius="10";
+let pai=3.14;
+let area=pai*radius*radius;
+console.log(area);

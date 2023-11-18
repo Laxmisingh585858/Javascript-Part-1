@@ -1,0 +1,14 @@
+Answer3-
+ 		primitive data type
+
+1-number= Number is a primitive data type, include positive , negative and floats numbers.
+ex- num a=30,b=35.00,c=-20;
+
+2-string= string is a primitive data type. string is a set of alphabets characters wrapped in either single or double quotes.
+ex= "laxmi" or 'laxmi'
+
+3- Boolean= boolean has two possible values (true and false).
+
+4- Null=Null means noting ore empty.
+
+5- undefined= undefined means variable is declare but value is not assign.
